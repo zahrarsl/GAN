@@ -1,4 +1,3 @@
-# GAN
 # GAN Project
 
 This project focuses on building a Generative Adversarial Network (GAN) to generate color images with a resolution of 100x100 pixels.
